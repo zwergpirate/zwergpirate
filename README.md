@@ -44,8 +44,8 @@ A social running app that lets you connect to runners nearby via chat. It also e
 
 
 
-<h3 align="left">My tech stack:</h3>
-<h4 align="left"> Programming languages:</h4>
+## My tech stack:
+<h3 align="left"> Programming languages:</h3>
 <p align="left"> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </br>
 <h4 align="left"> Frontend Dev:</h4>
