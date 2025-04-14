@@ -17,7 +17,8 @@ I’d love to collaborate on **open source projects**, let me know if you need a
 
 ## **📂 Current Projects:**
 ## **[Tavern Tales](https://github.com/zwerpirat/zwerpirat/blob/main/TavernTales.md)**
-A website for adding, deleting, editing and organizing your RPG campaign's characters, items, monsters and encounters.
+A safespace for all your NPCs of your D&D campaign. Finally no NPC gets lost along the way and your players can remember their names, locations and descriptions. Yay! No more hours spent on creating new NPCs, just for your players to forget them, ignore them or try to kill them without any reason. Every NPC is important, because we are all someone else's NPC, right?
+
 <br/>
 **Techstack used in this project:**
 <br/>
