@@ -8,7 +8,7 @@ I’m currently working on my personal project **Tavern Tales**. I'm in the proc
 <br/>
 **📖 My study focus is:**
 <br/>
-Besides continuing my JS/ TS journey, I’m currently learning **Pico8 / Lua as a fun sidequest** and diving **deeper into the world of back end programming by focusing on PHP.**
+Besides continuing my JS/ TS journey, I’m currently learning **Pico8 / Lua as a fun sidequest** and diving **deeper into the world of back end programming by focusing on PHP and its frameworks Laravel and Flight PHP.**
 <br/>
 <br/>
 **🔮 What I'm excited about:**
