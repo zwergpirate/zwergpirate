@@ -16,7 +16,7 @@ Besides continuing my **JS/ TS journey** and solidifying my **React / React Nati
 I’d love to collaborate on **open source projects**, let me know if you need a hand!
 
 ## **📂 Current Projects:**
-## **[Tavern Tales](https://github.com/zwerpirat/zwerpirat/blob/main/TavernTales.md)**
+## **[Tavern Tales](https://github.com/zwergpirate/zwergpirate/blob/main/TavernTales.md)**
 A safespace for all your NPCs of your D&D campaign. Finally no NPC gets lost along the way and your players can remember their names, locations and descriptions. Yay! No more hours spent on creating new NPCs, just for your players to forget them, ignore them or try to kill them without any reason. Every NPC is important, because we are all someone else's NPC, right?
 <br/>
 
@@ -31,7 +31,7 @@ A safespace for all your NPCs of your D&D campaign. Finally no NPC gets lost alo
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 
-## **[PackRun](https://github.com/zwerpirat/zwerpirat/blob/main/PackRun.md)**
+## **[PackRun](https://github.com/zwergpirate/zwergpirate/blob/main/PackRun.md)**
 A social running app that lets you connect to runners nearby via chat. It also enables you to track your runs via GPS and store your running progress. 
 <br/>
 **Techstack used in this project:**
