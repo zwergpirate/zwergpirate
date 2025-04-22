@@ -6,15 +6,18 @@ This app provides currently the following functions:
     Edit your NPC, just in case you realized you missed some important part of their backgroundstory
     Delete your NPC, if you want to get rid of them for good (your players don't remember anyways)
     Display of an NPC of the day, because everyone deserves their spotlight
+    same functionalities for items
+    same functionalities for monsters
+    same functionalities for encounters
 
 Future features:
 
-    same functionalities for your items
-    same functionalities for monsters
+    User authentication (user/ admin functionality)
+    personal profile
     galery for all the slain monsters
     Encouter of the day
     maps with locations
     counter for your next session
     comment section for each template
     integrated backgroundmusic (propably Bandcamp API)
-    User authentication (user/ admin functionality)
+    
