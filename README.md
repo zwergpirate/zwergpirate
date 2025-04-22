@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 🤘🏼 I'm Vera!</h1>
-<h3 align="center">An enthusiastic fullstack developer from Berlin</h3>
+<h3 align="center">An enthusiastic software engineer from Berlin</h3>
 
 **⚗️ What I'm working on:**
 <br/>
