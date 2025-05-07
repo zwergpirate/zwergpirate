@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 🤘🏼 I'm Vera!</h1>
-<h3 align="center">An enthusiastic software engineer on a journey through the Realms of Code & Chaos</h3>
+<h3 align="center">On a journey through the Realms of Code & Chaos</h3>
 
 **⚗️ What I'm working on:**
 <br/>
