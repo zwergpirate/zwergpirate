@@ -14,6 +14,7 @@ Besides continuing my **JS/ TS journey** and solidifying my **React / React Nati
 **🔮 What I'm excited about:**
 <br/>
 I’d love to collaborate on **open source projects**, let me know if you need a hand!
+<br/>
 Future project: contribute to **StreetComplete**! 🗺️
 
 ## **📂 Current Projects:**
