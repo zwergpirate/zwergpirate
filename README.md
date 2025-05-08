@@ -8,12 +8,13 @@ I’m currently working on my personal project **Tavern Tales**. I'm in the proc
 <br/>
 **📖 My study focus is:**
 <br/>
-Besides continuing my **JS/ TS journey** and solidifying my **React / React Native** knowledge, I’m currently learning **Pico8 / Lua as a fun sidequest** and am diving **deeper into the world of back end programming by focusing on PHP and its frameworks Laravel and Flight PHP.**
+Besides continuing my **JS/ TS journey** and solidifying my **React / React Native** knowledge, I’m currently diving **deeper into the world of back end programming by focusing on PHP and its frameworks Laravel and Flight PHP.** and am learning **Pico8 / Lua as a fun sidequest**. 
 <br/>
 <br/>
 **🔮 What I'm excited about:**
 <br/>
 I’d love to collaborate on **open source projects**, let me know if you need a hand!
+Future project: contribute to **StreetComplete**! 🗺️
 
 ## **📂 Current Projects:**
 ## **[Tavern Tales](https://github.com/zwergpirate/zwergpirate/blob/main/TavernTales.md)**
