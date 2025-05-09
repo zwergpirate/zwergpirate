@@ -15,7 +15,7 @@ Besides continuing my **JS/ TS journey** and solidifying my **React / React Nati
 <br/>
 I’d love to collaborate on **open source projects**, let me know if you need a hand!
 <br/>
-Future sidequest: contribute to **StreetComplete**! 🗺️
+🔜 Future sidequest: contribute to **StreetComplete**! 🗺️
 
 ## **📂 Current Projects:**
 ## **[Tavern Tales](https://github.com/zwergpirate/zwergpirate/blob/main/TavernTales.md)**
