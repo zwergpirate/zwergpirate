@@ -38,6 +38,7 @@ A social running app that lets you connect to runners nearby via chat. It also e
 <br/>
 **Techstack used in this project:**
 <br/>
+<br/>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
