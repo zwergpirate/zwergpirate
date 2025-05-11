@@ -36,8 +36,8 @@ A safespace for all your NPCs of your D&D campaign. Finally no NPC gets lost alo
 ## **[PackRun](https://github.com/zwergpirate/zwergpirate/blob/main/PackRun.md)**
 A social running app that lets you connect to runners nearby via chat. It also enables you to track your runs via GPS and store your running progress. 
 <br/>
+
 **Techstack used in this project:**
-<br/>
 <br/>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
