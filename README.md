@@ -20,9 +20,9 @@ I’d love to collaborate on **open source projects**, let me know if you need a
 ## **📂 Current Projects:**
 ## **[Tavern Tales](https://github.com/zwergpirate/zwergpirate/blob/main/TavernTales.md)**
 **Your hub for organizing tabletop RPG campaigns!**
-<br/>
+
 Tavern Tales is a web-based tool designed to help Game Masters and players manage their TTRPG campaigns with ease. Create, edit, and delete NPCs, items, monsters, and encounters—all in one place. Stay organized, immersive, and ready for every session.
-<br/>
+
 A safespace for all your NPCs of your D&D campaign. Finally no NPC gets lost along the way and your players can remember their names, locations and descriptions. Yay! No more hours spent on creating new NPCs, just for your players to forget them, ignore them or try to kill them without any reason. Every NPC is important, because we are all someone else's NPC, right?
 <br/>
 
@@ -38,8 +38,7 @@ A safespace for all your NPCs of your D&D campaign. Finally no NPC gets lost alo
 
 
 ## **[PackRun](https://github.com/zwergpirate/zwergpirate/blob/main/PackRun.md)**
-A social running app that lets you connect to runners nearby via chat. It also enables you to track your runs via GPS and store your running progress. 
-<br/>
+PackRun is a mobile application that enhances the running experience through real-time GPS tracking and social connectivity. The app enables users to monitor their runs with live metrics and join location-based chatrooms that foster spontaneous interaction with nearby runners. Real-time tracking features were engineered to provide dynamic performance insights, while geolocation technology powered chat functionalities based on user proximity. Built using TypeScript, Express, PostgreSQL, React Native, and Vite.<br/>
 
 **Techstack used in this project:**
 <br/>
