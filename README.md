@@ -19,6 +19,10 @@ I’d love to collaborate on **open source projects**, let me know if you need a
 
 ## **📂 Current Projects:**
 ## **[Tavern Tales](https://github.com/zwergpirate/zwergpirate/blob/main/TavernTales.md)**
+Your hub for organizing tabletop RPG campaigns.
+<br/>
+Tavern Tales is a web-based tool designed to help Game Masters and players manage their TTRPG campaigns with ease. Create, edit, and delete NPCs, items, monsters, and encounters—all in one place. Stay organized, immersive, and ready for every session.
+<br/>
 A safespace for all your NPCs of your D&D campaign. Finally no NPC gets lost along the way and your players can remember their names, locations and descriptions. Yay! No more hours spent on creating new NPCs, just for your players to forget them, ignore them or try to kill them without any reason. Every NPC is important, because we are all someone else's NPC, right?
 <br/>
 
