@@ -19,7 +19,7 @@ I’d love to collaborate on **open source projects**, let me know if you need a
 
 ## **📂 Current Projects:**
 ## **[Tavern Tales](https://github.com/zwergpirate/zwergpirate/blob/main/TavernTales.md)**
-Your hub for organizing tabletop RPG campaigns.
+**Your hub for organizing tabletop RPG campaigns!**
 <br/>
 Tavern Tales is a web-based tool designed to help Game Masters and players manage their TTRPG campaigns with ease. Create, edit, and delete NPCs, items, monsters, and encounters—all in one place. Stay organized, immersive, and ready for every session.
 <br/>
