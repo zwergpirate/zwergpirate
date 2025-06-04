@@ -3,12 +3,12 @@
 
 **⚗️ What I'm working on:**
 <br/>
-I’m currently working on my personal project **Tavern Tales**. I'm in the process of converting the backend from TS to PHP in order to host the webpage online - stay tuned!
+I’m currently working on my personal project **Tavern Tales**. I'm in the process of converting the backend from TS to PHP with Symfony in order to host the webpage online - stay tuned!
 <br/>
 <br/>
 **📖 My study focus is:**
 <br/>
-Besides continuing my **JS/ TS journey** and solidifying my **React / React Native** knowledge, I’m currently diving **deeper into the world of back end programming by focusing on PHP and its frameworks Laravel and Flight PHP** and am learning **Pico8 / Lua as a fun sidequest**. 
+Besides continuing my **JS/ TS journey** and solidifying my **React / React Native** knowledge, I’m currently diving **deeper into the world of back end programming by focusing on PHP and its frameworks Symfony** and am learning **Pico8 / Lua as a fun sidequest**. 
 <br/>
 <br/>
 **🔮 What I'm excited about:**
